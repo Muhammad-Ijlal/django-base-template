@@ -52,8 +52,6 @@ Thumbs.db
 *.code-workspace
 *.log
 /media
-/static
-*/statics
 .env
 ngrok
 
