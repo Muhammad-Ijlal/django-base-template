@@ -51,8 +51,9 @@ Thumbs.db
 # Local developement files
 *.code-workspace
 *.log
-*/media
-*/static
+/media
+/static
+*/statics
 .env
 ngrok
 
