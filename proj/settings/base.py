@@ -99,9 +99,9 @@ LOGGING = {
             'handlers': ['console'],
             'level': 'INFO',
         },
-        'proj': {
+        '': { #Global scope logger
             'handlers': ['console'],
-            'level': 'DEBUG',
+            'level': 'INFO',
         },
     },
 }
